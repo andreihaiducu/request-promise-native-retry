@@ -1,2 +1,4 @@
 import { RetryPromiseNative } from "./src/RetryPromiseNative";
-export default RetryPromiseNative;
+import { RetryOptions } from "./src/interfaces";
+export { RetryPromiseNative };
+export { RetryOptions };
