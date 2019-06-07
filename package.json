@@ -1,0 +1,25 @@
+{
+  "name": "request-promise-native-retry",
+  "version": "1.0.0",
+  "description": "retry module for request-promise-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreihaiducu/request-promise-native-retry.git"
+  },
+  "keywords": [
+    "request",
+    "request-promise-native",
+    "typescript"
+  ],
+  "author": "Haiducu Andrei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreihaiducu/request-promise-native-retry/issues"
+  },
+  "homepage": "https://github.com/andreihaiducu/request-promise-native-retry#readme",
+  "dependencies": {}
+}
