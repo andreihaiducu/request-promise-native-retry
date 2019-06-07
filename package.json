@@ -1,6 +1,6 @@
 {
   "name": "request-promise-native-retry",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "retry module for request-promise-native",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
