@@ -9,7 +9,7 @@ Typescript module wrapper for retring request-promise-native promises.
 
 Usage: 
 
-        import { RetryPromiseNative } from 'request-promise-native-retry'
+        import { RetryPromiseNative, RetryOptions } from 'request-promise-native-retry'
 
         const retryableStatusCodes = [
             404,
